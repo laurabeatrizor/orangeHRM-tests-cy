@@ -1,0 +1,26 @@
+# Suite de Testes básico com Cypress
+
+
+Projeto de exemplo para demonstrar comandos básicos em Cypress 
+
+## Pré-requisitos
+
+É necessário ter o Node.js e o npm instalados para executar este projeto.
+
+> Eu usei as versões v22.5.0 e 10.8.2 do Node.js e do npm, respectivamente. Sugiro que você use as mesmas versões ou versões mais recentes.
+
+## Instalação 
+
+Execute npm install (ou npm i para a versão abreviada) para instalar as dependências de desenvolvimento.
+
+## Testes
+
+Execute npm test (ou npm t para a versão abreviada) para rodar o teste em modo headless.
+
+Ou, execute npm run cy:open para abrir o Cypress em modo interativo.
+
+## Se você quiser apoiar este projeto, deixe uma ⭐.
+
+___
+
+Este projeto foi criado por [Laura](https://github.com/laurabeatrizor).
